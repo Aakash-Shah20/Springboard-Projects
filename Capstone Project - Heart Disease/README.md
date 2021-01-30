@@ -20,5 +20,5 @@ The overall results have shown us that there are many mroe highs in the higher a
 reccomendations to prevent heart desiease, 
 
 Credits: 
-Dataset from Kaggle 
+Dataset from Kaggle,
 Kenneth (Springboard Mentor)
