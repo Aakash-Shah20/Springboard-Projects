@@ -10,9 +10,9 @@ Data features include the following:
 - SaleType (type of sale), SaleCondition (condition of sale)
 
 
-In Heart Disease EDA.ipynb, we read in the heart_disease data file, finding various correlations between our target feeautre of SalePrice and other features to understand how the impact of the house prices wil effect a buying option.
+In HouseSalePricesEDA .ipynb, we read in the heart_disease data file, finding various correlations between our target feeautre of SalePrice and other features to understand how the impact of the house prices wil effect a buying option.
 
-In Heart Disease Data Wrangling.ipynb, a Pandas HTML report helped us quickly identify outliers, missing data, duplicate rows of data and correlation charts.In addition we selected only spesific important rows which were applicable to the proect goal.
+In HouseSalePrices.ipynb, a Pandas HTML report helped us quickly identify outliers, missing data, duplicate rows of data and correlation charts.In addition we selected only spesific important rows which were applicable to the proect goal.
 
 In the Preprocessing, Training, Modeling.ipynb, I had created the rest of the data into dummy variables, so that I can use all of the data when testing, traing ,and splitting. In the modeling stage, I had created six machine learning models to help us the house prices.
 
